@@ -2854,6 +2854,14 @@ Last change:    11/21/2017
             -ms-user-select: none;
             user-select: none;
         }
+        .slide-inner--infop {
+            position: absolute;
+            text-align: center;
+            min-height: 50px;
+            bottom: 8em !important;
+            padding-left: 0;
+        }
+        
         .ms-btn--slider {
             margin: 0 auto;
             display: inline-block;
