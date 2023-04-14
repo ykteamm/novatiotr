@@ -20,7 +20,17 @@
         padding-top: 30px;
     }
 } */
-
+.per_new{
+    margin-top: 190px;
+    background: #764a9a;
+}
+.per_new_img{
+    position: absolute;
+    top: 165;
+    left: 100;
+    right: 0;
+    bottom: 0;
+}
 .per_align_padding{
     padding: 10px 10px;
 }
